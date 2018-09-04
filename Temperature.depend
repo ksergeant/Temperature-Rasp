@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1464661086 source:/home/pi/Documents/Programmation/C++/Temperature/main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<string>
+	<string.h>
+	<curl/curl.h>
+
+1454590170 /home/pi/Documents/Programmation/C++/Temperature/curl-7.47.1/include/curl/curl.h
+	"curlver.h"
+	"curlbuild.h"
+	"curlrules.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	<support/SupportDefs.h>
+	"easy.h"
+	"multi.h"
+	"typecheck-gcc.h"
+
+1454916504 /home/pi/Documents/Programmation/C++/Temperature/curl-7.47.1/include/curl/curlver.h
+
+1464660288 /home/pi/Documents/Programmation/C++/Temperature/curl-7.47.1/include/curl/curlbuild.h
+	<windows.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<stdint.h>
+	<inttypes.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1454533576 /home/pi/Documents/Programmation/C++/Temperature/curl-7.47.1/include/curl/curlrules.h
+
+1454447310 /home/pi/Documents/Programmation/C++/Temperature/curl-7.47.1/include/curl/easy.h
+
+1454447310 /home/pi/Documents/Programmation/C++/Temperature/curl-7.47.1/include/curl/multi.h
+	"curl.h"
+
+1454447310 /home/pi/Documents/Programmation/C++/Temperature/curl-7.47.1/include/curl/typecheck-gcc.h
+
